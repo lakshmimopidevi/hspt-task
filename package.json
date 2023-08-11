@@ -42,7 +42,4 @@
   "engines": {
     "node": "6.9.1"
   }
-  "publishConfig": {
-    "registry": "http://3.82.250.119:8081/repository/npm-release/"
-  }
 }
