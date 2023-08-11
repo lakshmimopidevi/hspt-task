@@ -5,14 +5,14 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node app.js"
+    "start": "node app.js",
     "sonar": "node sonar.js"
   },
   "publishConfig": {
     "registry": "http://52.203.40.84:8081/repository/release-nexus/"
   },
   "engines": {
-     "node": "6.9.1"
+    "node": "6.9.1"
   },
   "author": "",
   "license": "ISC",
@@ -32,14 +32,4 @@
     "mongodb": "^2.2.24",
     "mongoose": "^4.8.5",
     "passport": "^0.3.2",
-    "passport-http": "^0.3.0",
-    "passport-local": "^1.0.0",
-    "serve-favicon": "^2.4.1"
-  },
-  "devDependencies": {
-    "nodemon": "^1.11.0"
-  },
-  "engines": {
-    "node": "6.9.1"
-  }
-}
+    "passport-http": "^0.3.
