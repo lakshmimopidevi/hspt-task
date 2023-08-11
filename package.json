@@ -9,7 +9,7 @@
     "sonar": "node sonar.js"
   },
   "publishConfig": {
-    "registry": "http://52.203.40.84:8081/repository/release-nexus/"
+    "registry": "http://52.203.40.84:8081/repository/release-host/"
   },
   "engines": {
     "node": "6.9.1"
